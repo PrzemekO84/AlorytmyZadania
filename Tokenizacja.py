@@ -45,6 +45,6 @@ print("Regex Tokenizer Output:")
 print(tokens['regexTokens'])
 
 
-#Przepraszam za bardzo prostą formę zadania ale nie miałem w ostatnich tygodniach wiele czasu a nie chciałem nic nie wysyłać zadania.
+#Przepraszam za bardzo prostą formę zadania ale nie miałem w ostatnich tygodniach wiele czasu a nie chciałem nie wysyłać zadania.
 #Pozdrawiam
 
